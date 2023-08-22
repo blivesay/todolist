@@ -1,1 +1,1 @@
-Simple React + MUI app demonstrating proficiency with useState and useEffect
+Simple React + MUI app demonstrating proficiency with components, useState, and useEffect
